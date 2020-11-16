@@ -1,2 +1,8 @@
 env/
 .DS_Store
+
+ethereum-model/
+models/
+
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
