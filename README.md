@@ -5,6 +5,7 @@ The projects included at this point use a tech stack that includes:
 * Python
 * NumPy / Pandas / Matplotlib
 * ScitKit-learn
+* Jupyter Notebook
 
 
 So far the only project in this rep is: </br>
