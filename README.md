@@ -8,8 +8,9 @@ The projects included at this point use a tech stack that includes:
 * Jupyter Notebook
 
 
-So far the only project in this rep is: </br>
-A <i>Poker-Hand Classification</i> notebook, that explores building a model that classifies a poker hand (pair, flush, etc.) based on the five cards it is given.
+Ther projects in this rep are: </br>
+* A <i>Poker-Hand Classification</i> notebook, that explores building a model that classifies a poker hand (pair, flush, etc.) based on the five cards it is given.
+* An <i>Ethereum Price Regression</i> notebook, that explores predicting the daily closing price of one ether given the daily trading indicators of that day.
 
 
 <hr/>
